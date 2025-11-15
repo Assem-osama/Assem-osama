@@ -4,8 +4,8 @@
 <p>💻 I am currently exploring and practicing:</p>
 <ul>
 <li>Programming Languages: <strong>C, C++, C#, Python</strong></li>
-<li>Skills & Technologies: <strong>SQL, .NET, LINQ, Entity Framework, API, MVC</strong></li>
-<li>College Courses: Programming, Data engineering, AI, IT, Algorithms & Problem solving, Data Structures, Databases, OOP </li>
+<li>Skills & Technologies: <strong>SQL, .NET, ADO.NET, LINQ, Entity Framework,ASP.net Web API, MVC</strong></li>
+<li>College Courses: Programming, Data engineering, AI, IT, Algorithms & Problem solving, Data Structures, Databases</li>
 </ul>
 
 <p>🛠️ Tools I use:</p>
