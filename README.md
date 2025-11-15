@@ -1,22 +1,22 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/assem-osama-008a51268">Assem Osama</a></h2>
-<p>I'm a 2nd-year Computer Science & Artificial Intelligence student. Passionate about programming and data, I enjoy learning new technologies and building projects that combine my college studies with real-world applications.</p>
+<p>I'm a 2nd-year Computer Science & Artificial Intelligence student. Passionate about programming and data, I enjoy learning new technologies and building projects that combine my courses and my college studies with real-world applications.</p>
 
 <p>💻 I am currently exploring and practicing:</p>
 <ul>
 <li>Programming Languages: <strong>C, C++, C#, Python</strong></li>
-<li>Skills & Technologies: <strong>Data Structures, Databases, .NET, API, MVC, Entity Framework, LINQ</strong></li>
-<li>College Courses: Programming, AI, Data Analysis, Algorithms</li>
+<li>Skills & Technologies: <strong>SQL, .NET, LINQ, Entity Framework, API, MVC</strong></li>
+<li>College Courses: Programming, Data engineering, AI, IT, Algorithms & Problem solving, Data Structures, Databases, OOP </li>
 </ul>
 
 <p>🛠️ Tools I use:</p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-server/sql-server-plain.svg" alt="sql-server" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-server/sql-server-plain.svg" alt="sql-server" width="25" height="25" />
+
 </p>
 
 <h2>🚀 Some Projects</h2>
@@ -25,6 +25,3 @@
 <li><a href="https://github.com/Assem-osama/DVLD">DVLD</a> - Driving License management app (Windows Forms)</li>
 <li>Add your other projects here...</li>
 </ul>
-
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Assem-osama&show_icons=true&count_private=true" alt="Assem's GitHub stats" />
