@@ -23,5 +23,5 @@
 <ul>
 <li><a href="https://github.com/Assem-osama/AutoZone">AutoZone</a> - Car sales & rental system (ASP.NET Core Web API)</li>
 <li><a href="https://github.com/Assem-osama/DVLD-System">DVLD-System</a> - Driving License management app (Windows Forms)</li>
-<li>Add your other projects here...</li>
+
 </ul>
