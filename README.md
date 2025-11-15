@@ -22,6 +22,6 @@
 <h2>🚀 Some Projects</h2>
 <ul>
 <li><a href="https://github.com/Assem-osama/AutoZone">AutoZone</a> - Car sales & rental system (ASP.NET Core Web API)</li>
-<li><a href="https://github.com/Assem-osama/DVLD">DVLD</a> - Driving License management app (Windows Forms)</li>
+<li><a href="https://github.com/Assem-osama/DVLD-System">DVLD</a> - Driving License management app (Windows Forms)</li>
 <li>Add your other projects here...</li>
 </ul>
