@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/assem-osama-008a51268">Assem Osama</a></h2>
+<p>I'm a 2nd-year Computer Science & Artificial Intelligence student. Passionate about programming and data, I enjoy learning new technologies and building projects that combine my courses and college studies with real-world applications.</p>
 
-<!--
-**Assem-osama/Assem-osama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>💻 I am currently exploring and practicing:</p>
+<ul>
+<li>Programming Languages: <strong>C, C++, C#, Python</strong></li>
+<li>Skills & Technologies: <strong>SQL, .NET, ADO.Net, LINQ, Entity Framework, API, MVC</strong></li>
+<li>College Courses: Programming, AI, Data engineering, IT, Algorithms & problem Solving, Data Structures, Databases</li>
+</ul>
 
-Here are some ideas to get you started:
+<p>🛠️ Tools I use:</p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-server/sql-server-plain.svg" alt="sql-server" width="25" height="25" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Some Projects</h2>
+<ul>
+<li><a href="https://github.com/Assem-osama/AutoZone">AutoZone</a> - Car sales & rental system (ASP.NET Core Web API)</li>
+<li><a href="https://github.com/Assem-osama/DVLD">DVLD</a> - Driving License management app (Windows Forms)</li>
+<li>Add your other projects here...</li>
+</ul>
