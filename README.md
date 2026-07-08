@@ -3,8 +3,8 @@
 
 <p>💻 I am currently exploring and practicing:</p>
 <ul>
-<li>Programming Languages: <strong>C, C++, C#, Python</strong></li>
-<li>Skills & Technologies: <strong>SQL, .NET, ADO.NET, LINQ, Entity Framework,ASP.net Web API, MVC</strong></li>
+<li>Programming Languages: <strong>C++, C#, Python</strong></li>
+<li>Skills & Technologies: <strong>SQL,  data modeling, spark, .NET, ADO.NET, LINQ, Entity Framework,ASP.net Web API, MVC</strong></li>
 <li>College Courses: Programming, Data engineering, AI, IT, Algorithms & Problem solving, Data Structures, Databases</li>
 </ul>
 
@@ -25,4 +25,6 @@
 <li><a href="https://github.com/Assem-osama/DVLD-System">DVLD-System</a> - Driving License management app (Windows Forms(C#))</li>
 <li><a href="https://github.com/Assem-osama/Library_Manaement_System">Library Manaement System</a> - Library Manaement System (Windows Forms(java))</li>
 
+<h2>Data engineering projects </h2>
+<li><a href="https://github.com/Assem-osama/data-warehouse-project">data-warehouse-project</a> - Develop a modern data warehouse</li>
 </ul>
