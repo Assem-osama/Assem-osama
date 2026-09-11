@@ -10,10 +10,9 @@ data pipelines, data warehouses, and scalable data processing solutions.
 <h3>🚀 Currently focused on Data Engineering</h3>
 
 <ul>
-<li><strong>Programming:</strong> Python, SQL, C#, C++</li>
 
 <li><strong>Data Engineering:</strong> 
-ETL, Data Warehousing, Data Modeling, Data Pipelines, 
+Python, SQL, ETL, Data Warehousing, Data Modeling, Data Pipelines, 
 Star Schema, Medallion Architecture</li>
 
 <li><strong>Big Data & Distributed Systems:</strong> 
@@ -38,6 +37,7 @@ programming, databases, APIs, and software engineering.
 </p>
 
 <ul>
+<li>C#, SQL</li>
 <li>ASP.NET Core Web API</li>
 <li>Entity Framework</li>
 <li>LINQ</li>
