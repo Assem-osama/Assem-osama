@@ -62,19 +62,27 @@ programming, databases, APIs, and software engineering.
 <ul>
 
 <li>
-<a href="https://github.com/Assem-osama/data-warehouse-project">
-<strong>SQL Data Warehouse</strong>
-</a>
-- End-to-end modern data warehouse built using SQL Server,
-including ETL pipelines, data modeling, and Bronze, Silver & Gold layers.
-</li>
-
-<li>
 <a href="https://github.com/Assem-osama/airbnb-data-warehouse-python">
 <strong>Airbnb Barcelona Data Warehouse</strong>
 </a>
 - Data Engineering project involving Python-based data processing,
 data cleaning, ETL, dimensional modeling, SQL Server, Docker and Airflow.
+</li>
+
+<li>
+<a href="https://github.com/Assem-osama/retail-analytics-spark">
+<strong>Online Retail Distributed Data Pipeline</strong>
+</a>
+- End-to-End Data Engineering project implementing a Medallion architecture. 
+Built with Apache Spark (PySpark) for distributed data processing, Data Quality validation, Docker.
+</li>
+
+<li>
+<a href="https://github.com/Assem-osama/data-warehouse-project">
+<strong>SQL Data Warehouse</strong>
+</a>
+- End-to-end modern data warehouse built using SQL Server,
+including ETL pipelines, data modeling, and Bronze, Silver & Gold layers.
 </li>
 
 </ul>
