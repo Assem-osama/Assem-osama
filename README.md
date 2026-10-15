@@ -70,6 +70,13 @@ data cleaning, ETL, dimensional modeling, SQL Server, Docker and Airflow.
 </li>
 
 <li>
+<a href="https://github.com/Assem-osama/realtime-fraud-hdfs-lakehouse">
+<strong>Real-Time Fraud Detection Lakehouse</strong>
+</a>
+- End-to-End Real-Time Lakehouse project utilizing SQL Server CDC (Debezium), Apache Kafka, Spark Structured Streaming, Delta Lake on HDFS, Hive Metastore, and Airflow.
+</li>
+
+<li>
 <a href="https://github.com/Assem-osama/retail-analytics-spark">
 <strong>Online Retail Distributed Data Pipeline</strong>
 </a>
